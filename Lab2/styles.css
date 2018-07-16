@@ -1,0 +1,13 @@
+.celda{
+  background: lightblue;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 1rem 5rem 1rem 7rem;
+  padding: 35px;
+  height: 10rem;
+  width: 10rem;
+}
+
+.celda:hover{
+  background: lightgreen;
+}
